@@ -1,2 +1,0 @@
-This is a log file.
-No need to track and excluded from git project.
