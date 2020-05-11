@@ -16,6 +16,9 @@
 # Exclude about page
 about.html
 
+# Exclude log file
+log.txt
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
